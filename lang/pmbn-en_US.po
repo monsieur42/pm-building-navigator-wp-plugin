@@ -1,0 +1,318 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PM Building Navigator\n"
+"POT-Creation-Date: 2023-05-14 20:06+0200\n"
+"PO-Revision-Date: 2023-05-14 20:08+0200\n"
+"Last-Translator: \n"
+"Language-Team: info@miklospomsar.com\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n;_nx:1,2c;_n_noop;_nx_noop;"
+"esc_html__;esc_html_e;esc_html_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets/dev\n"
+
+#: includes/class-pmbn-cpts.php:38
+msgid "Buildings"
+msgstr "Buildings"
+
+#: includes/class-pmbn-cpts.php:39
+msgid "Building navigator"
+msgstr "Building navigator"
+
+#: includes/class-pmbn-cpts.php:40
+msgid "Add new building navigator"
+msgstr "Add new building navigator"
+
+#: includes/class-pmbn-cpts.php:41
+msgid "Edit building navigator"
+msgstr "Edit building navigator"
+
+#: includes/class-pmbn-cpts.php:42
+msgid "New building navigator"
+msgstr "New building navigator"
+
+#: includes/class-pmbn-cpts.php:43
+msgid "View building navigator"
+msgstr "View building navigator"
+
+#: includes/class-pmbn-cpts.php:44
+msgid "View building navigators"
+msgstr "View building navigators"
+
+#: includes/class-pmbn-cpts.php:45
+msgid "Search building navigators"
+msgstr "Search building navigators"
+
+#: includes/class-pmbn-cpts.php:46
+msgid "Building navigator not found"
+msgstr "Building navigator not found"
+
+#: includes/class-pmbn-cpts.php:47
+msgid "Building navigator not found in trash"
+msgstr "Building navigator not found in trash"
+
+#: includes/class-pmbn-cpts.php:48
+msgid "Parent building navigator:"
+msgstr "Parent building navigator:"
+
+#: includes/class-pmbn-cpts.php:49
+msgid "All buildings"
+msgstr "All buildings"
+
+#: includes/class-pmbn-cpts.php:50
+msgid "Archive building navigators"
+msgstr "Archive building navigators"
+
+#: includes/class-pmbn-cpts.php:51
+msgid "Insert into building navigator"
+msgstr "Insert into building navigator"
+
+#: includes/class-pmbn-cpts.php:52
+msgid "Uploaded to this building navigator"
+msgstr "Uploaded to this building navigator"
+
+#: includes/class-pmbn-navigator.php:53
+#| msgid "Building navigator not found"
+msgid "Building navigator not found..."
+msgstr "Building navigator not found..."
+
+#: includes/class-pmbn-navigator.php:168
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/class-pmbn-navigator.php:196
+msgid ""
+"Oops! An unexpected error occurred while saving the building navigator. "
+"Please try again."
+msgstr ""
+"Oops! An unexpected error occurred while saving the building navigator. "
+"Please try again."
+
+#: includes/class-pmbn-scripts.php:118
+msgid "Passive"
+msgstr "Passive"
+
+#: includes/class-pmbn-scripts.php:122
+msgid "Floor name"
+msgstr "Floor name"
+
+#: includes/class-pmbn-scripts.php:126
+msgid "Add images"
+msgstr "Add images"
+
+#: includes/class-pmbn-scripts.php:130
+msgid "Level spacing"
+msgstr "Level spacing"
+
+#: includes/class-pmbn-scripts.php:134
+msgid "Space above"
+msgstr "Space above"
+
+#: includes/class-pmbn-scripts.php:138
+msgid "Change SVG"
+msgstr "Change SVG"
+
+#: includes/class-pmbn-scripts.php:142
+msgid "select file"
+msgstr "select file"
+
+#: includes/class-pmbn-scripts.php:146
+msgid ""
+"Svg files with groups on the top level representing the floors and groups in "
+"the floors representing the apartments."
+msgstr ""
+"Svg files with groups on the top level representing the floors and groups in "
+"the floors representing the apartments."
+
+#: includes/class-pmbn-scripts.php:150
+msgid "Load SVG"
+msgstr "Load SVG"
+
+#: includes/class-pmbn-scripts.php:154
+msgid "Only SVG files are allowed."
+msgstr "Only SVG files are allowed."
+
+#: includes/class-pmbn-scripts.php:158
+msgid "Is Apartment"
+msgstr "Is Apartment"
+
+#: includes/class-pmbn-scripts.php:162
+msgid "Apartment name"
+msgstr "Apartment name"
+
+#: includes/class-pmbn-scripts.php:166
+msgid "Apartment images"
+msgstr "Apartment images"
+
+#: includes/class-pmbn-scripts.php:170
+msgctxt "settings"
+msgid "General"
+msgstr "General"
+
+#: includes/class-pmbn-scripts.php:175
+msgid "Floor"
+msgstr "Floor"
+
+#: includes/class-pmbn-scripts.php:179
+msgid "Apartment"
+msgstr "Apartment"
+
+#: includes/class-pmbn-scripts.php:183
+msgid "Number of rooms"
+msgstr "Number of rooms"
+
+#: includes/class-pmbn-scripts.php:187
+msgid "Rooms"
+msgstr "Rooms"
+
+#: includes/class-pmbn-scripts.php:191
+msgid "Living area"
+msgstr "Living area"
+
+#: includes/class-pmbn-scripts.php:195
+msgid "Garden"
+msgstr "Garden"
+
+#: includes/class-pmbn-scripts.php:199
+msgid "Terrace"
+msgstr "Terrace"
+
+#: includes/class-pmbn-scripts.php:203
+msgid "Balcony"
+msgstr "Balcony"
+
+#: includes/class-pmbn-scripts.php:207
+msgid "Sale price"
+msgstr "Sale price"
+
+#: includes/class-pmbn-scripts.php:211
+msgid "Currency"
+msgstr "Currency"
+
+#: includes/class-pmbn-scripts.php:215
+msgid "Period"
+msgstr "Period"
+
+#: includes/class-pmbn-scripts.php:219
+msgid "Overheads"
+msgstr "Overheads"
+
+#: includes/class-pmbn-scripts.php:223
+msgid "Available from"
+msgstr "Available from"
+
+#: includes/class-pmbn-scripts.php:227
+msgid "Status"
+msgstr "Status"
+
+#: includes/class-pmbn-scripts.php:231
+msgid "Registration URL"
+msgstr "Registration URL"
+
+#: includes/class-pmbn-scripts.php:235
+msgid "Fact sheet"
+msgstr "Fact sheet"
+
+#: includes/class-pmbn-scripts.php:239
+#| msgid "Add images"
+msgid "Add file"
+msgstr "Add file"
+
+#: includes/class-pmbn-scripts.php:243
+msgid "Graphic"
+msgstr "Graphic"
+
+#: includes/class-pmbn-scripts.php:247
+#| msgid "Apartment"
+msgid "Apartments"
+msgstr "Apartments"
+
+#: includes/class-pmbn-scripts.php:251
+msgid "Rent price period"
+msgstr "Rent price period"
+
+#: includes/class-pmbn-scripts.php:255
+msgid "Clipboard data copied into apartment."
+msgstr "Clipboard data copied into apartment."
+
+#: includes/class-pmbn-scripts.php:259
+msgid "Apartment copied on clipboard."
+msgstr "Apartment copied on clipboard."
+
+#: includes/class-pmbn-scripts.php:263
+msgid "Copy"
+msgstr "Copy"
+
+#: includes/class-pmbn-scripts.php:267
+msgid "Paste"
+msgstr "Paste"
+
+#: includes/class-pmbn-scripts.php:271
+msgid "Display in table column"
+msgstr "Display in table column"
+
+#: includes/class-pmbn-scripts.php:275
+#| msgid "Floor name"
+msgid "Floor index"
+msgstr "Floor index"
+
+#: includes/class-pmbn-scripts.php:279
+msgid "Online Registration"
+msgstr "Online Registration"
+
+#: includes/class-pmbn-scripts.php:283
+msgid "Search"
+msgstr "Search"
+
+#: includes/class-pmbn-scripts.php:287
+msgctxt "date range"
+msgid "to"
+msgstr "to"
+
+#: includes/class-pmbn-scripts.php:292
+msgid "Availability"
+msgstr "Availability"
+
+#: includes/class-pmbn-scripts.php:296
+msgid "Available"
+msgstr "Available"
+
+#: includes/class-pmbn-scripts.php:300
+msgid "Sold"
+msgstr "Sold"
+
+#: includes/class-pmbn-scripts.php:304
+msgid "Rented"
+msgstr "Rented"
+
+#: includes/class-pmbn-scripts.php:308
+msgid "Main color"
+msgstr "Main color"
+
+#: includes/class-pmbn-scripts.php:312
+msgid "Outdoor types"
+msgstr "Outdoor types"
+
+#: includes/class-pmbn-scripts.php:316
+msgid "Blueprints"
+msgstr "Blueprints"
+
+#: includes/class-pmbn-scripts.php:320
+msgid "Sold status row opacity"
+msgstr "Sold status row opacity"
+
+#: includes/class-pmbn-scripts.php:324
+msgid "Previous Floor"
+msgstr "Previous Floor"
+
+#: includes/class-pmbn-scripts.php:328
+#| msgid "Floor"
+msgid "Next Floor"
+msgstr "Next Floor"

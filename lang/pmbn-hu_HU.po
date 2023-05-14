@@ -1,0 +1,353 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PM Building Navigator\n"
+"POT-Creation-Date: 2023-05-14 20:31+0200\n"
+"PO-Revision-Date: 2023-05-14 20:32+0200\n"
+"Last-Translator: \n"
+"Language-Team: info@miklospomsar.com\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n;_nx:1,2c;_n_noop;_nx_noop;"
+"esc_html__;esc_html_e;esc_html_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets/dev\n"
+
+#: includes/class-pmbn-cpts.php:38
+msgid "Buildings"
+msgstr "Épületek"
+
+#: includes/class-pmbn-cpts.php:39
+msgid "Building navigator"
+msgstr "Épület navigátor"
+
+#: includes/class-pmbn-cpts.php:40
+msgid "Add new building navigator"
+msgstr "Új épület navigátor hozzáadása"
+
+#: includes/class-pmbn-cpts.php:41
+msgid "Edit building navigator"
+msgstr "Épület navigátor szerkesztése"
+
+#: includes/class-pmbn-cpts.php:42
+msgid "New building navigator"
+msgstr "Új épület navigátor"
+
+#: includes/class-pmbn-cpts.php:43
+msgid "View building navigator"
+msgstr "Épület navigátor megtekintése"
+
+#: includes/class-pmbn-cpts.php:44
+msgid "View building navigators"
+msgstr "Épület navigátorok megtekintése"
+
+#: includes/class-pmbn-cpts.php:45
+msgid "Search building navigators"
+msgstr "Épület navigátorok keresése"
+
+#: includes/class-pmbn-cpts.php:46
+msgid "Building navigator not found"
+msgstr "Nem található épület navigátor"
+
+#: includes/class-pmbn-cpts.php:47
+msgid "Building navigator not found in trash"
+msgstr "Nem található épület navigátor a kukában"
+
+#: includes/class-pmbn-cpts.php:48
+msgid "Parent building navigator:"
+msgstr "Szülő épület navigátor:"
+
+#: includes/class-pmbn-cpts.php:49
+msgid "All buildings"
+msgstr "Összes épület"
+
+#: includes/class-pmbn-cpts.php:50
+msgid "Archive building navigators"
+msgstr "Archív épület navigátorok"
+
+#: includes/class-pmbn-cpts.php:51
+msgid "Insert into building navigator"
+msgstr "Beillesztés az épület navigátorba"
+
+#: includes/class-pmbn-cpts.php:52
+msgid "Uploaded to this building navigator"
+msgstr "Feltöltve az épület navigátorhoz"
+
+#: includes/class-pmbn-navigator.php:53
+msgid "Building navigator not found..."
+msgstr "Nem található épület navigátor..."
+
+#: includes/class-pmbn-navigator.php:168
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/class-pmbn-navigator.php:196
+msgid ""
+"Oops! An unexpected error occurred while saving the building navigator. "
+"Please try again."
+msgstr ""
+"Hoppá! Váratlan hiba történt az épület navigátor mentése közben. Kérjük, "
+"próbáld újra!"
+
+#: includes/class-pmbn-scripts.php:118
+msgid "Passive"
+msgstr "Passzív"
+
+#: includes/class-pmbn-scripts.php:122
+msgid "Floor name"
+msgstr "Emelet neve"
+
+#: includes/class-pmbn-scripts.php:126
+msgid "Add images"
+msgstr "Képek hozzáadása"
+
+#: includes/class-pmbn-scripts.php:130
+msgid "Level spacing"
+msgstr "Szint emelkedés"
+
+#: includes/class-pmbn-scripts.php:134
+msgid "Space above"
+msgstr "Tér az épület felett"
+
+#: includes/class-pmbn-scripts.php:138
+msgid "Change SVG"
+msgstr "SVG módosítása"
+
+#: includes/class-pmbn-scripts.php:142
+msgid "select file"
+msgstr "fájl kiválasztása"
+
+#: includes/class-pmbn-scripts.php:146
+msgid ""
+"Svg files with groups on the top level representing the floors and groups in "
+"the floors representing the apartments."
+msgstr ""
+"Svg fájlok, amelyekben a legfelső szinten csoportok tartalmazzák az "
+"emeleteket, az emeleteken belüli csoportok pedig a lakásokat."
+
+#: includes/class-pmbn-scripts.php:150
+msgid "Load SVG"
+msgstr "SVG betöltése"
+
+#: includes/class-pmbn-scripts.php:154
+msgid "Only SVG files are allowed."
+msgstr "Csak az SVG fájlok engedélyezettek."
+
+#: includes/class-pmbn-scripts.php:158
+msgid "Is Apartment"
+msgstr "Lakás"
+
+#: includes/class-pmbn-scripts.php:162
+msgid "Apartment name"
+msgstr "Lakás neve"
+
+#: includes/class-pmbn-scripts.php:166
+msgid "Apartment images"
+msgstr "Lakás képei"
+
+#: includes/class-pmbn-scripts.php:170
+msgctxt "settings"
+msgid "General"
+msgstr "Általános"
+
+#: includes/class-pmbn-scripts.php:175
+msgid "Floor"
+msgstr "Emelet"
+
+#: includes/class-pmbn-scripts.php:179
+msgid "Apartment"
+msgstr "Lakás"
+
+#: includes/class-pmbn-scripts.php:183
+msgid "Number of rooms"
+msgstr "Szobák száma"
+
+#: includes/class-pmbn-scripts.php:187
+msgid "Rooms"
+msgstr "Szobák"
+
+#: includes/class-pmbn-scripts.php:191
+msgid "Living area"
+msgstr "Lakótér"
+
+#: includes/class-pmbn-scripts.php:195
+msgid "Garden"
+msgstr "Kert"
+
+#: includes/class-pmbn-scripts.php:199
+msgid "Terrace"
+msgstr "Terasz"
+
+#: includes/class-pmbn-scripts.php:203
+msgid "Balcony"
+msgstr "Erkély"
+
+#: includes/class-pmbn-scripts.php:207
+msgid "Sale price"
+msgstr "Eladási ár"
+
+#: includes/class-pmbn-scripts.php:211
+msgid "Currency"
+msgstr "Pénznem"
+
+#: includes/class-pmbn-scripts.php:215
+msgid "Period"
+msgstr "Periódus"
+
+#: includes/class-pmbn-scripts.php:219
+msgid "Overheads"
+msgstr "Rezsi"
+
+#: includes/class-pmbn-scripts.php:223
+msgid "Available from"
+msgstr "Elérhető"
+
+#: includes/class-pmbn-scripts.php:227
+msgid "Status"
+msgstr "Státusz"
+
+#: includes/class-pmbn-scripts.php:231
+msgid "Registration URL"
+msgstr "Regisztrációs URL"
+
+#: includes/class-pmbn-scripts.php:235
+msgid "Fact sheet"
+msgstr "Adatlap"
+
+#: includes/class-pmbn-scripts.php:239
+msgid "Add file"
+msgstr "Fájl hozzáadása"
+
+#: includes/class-pmbn-scripts.php:243
+msgid "Graphic"
+msgstr "Megjelenés"
+
+#: includes/class-pmbn-scripts.php:247
+msgid "Apartments"
+msgstr "Lakások"
+
+#: includes/class-pmbn-scripts.php:251
+msgid "Rent price period"
+msgstr "Bérleti díj periódus"
+
+#: includes/class-pmbn-scripts.php:255
+msgid "Clipboard data copied into apartment."
+msgstr "A vágólap adatai a lakásba másolva."
+
+#: includes/class-pmbn-scripts.php:259
+msgid "Apartment copied on clipboard."
+msgstr "A lakás adatai a vágólapra másolva."
+
+#: includes/class-pmbn-scripts.php:263
+msgid "Copy"
+msgstr "Másolás"
+
+#: includes/class-pmbn-scripts.php:267
+msgid "Paste"
+msgstr "Beillesztés"
+
+#: includes/class-pmbn-scripts.php:271
+msgid "Display in table column"
+msgstr "Megjelenítés a táblázatban"
+
+#: includes/class-pmbn-scripts.php:275
+msgid "Floor index"
+msgstr "Szint index"
+
+#: includes/class-pmbn-scripts.php:279
+msgid "Online Registration"
+msgstr "Online regisztráció"
+
+#: includes/class-pmbn-scripts.php:283
+msgid "Search"
+msgstr "Keresés"
+
+#: includes/class-pmbn-scripts.php:287
+msgctxt "date range"
+msgid "to"
+msgstr "és"
+
+#: includes/class-pmbn-scripts.php:292
+msgid "Availability"
+msgstr "Elérhetőség"
+
+#: includes/class-pmbn-scripts.php:296
+msgid "Available"
+msgstr "Elérhető"
+
+#: includes/class-pmbn-scripts.php:300
+msgid "Sold"
+msgstr "Eladva"
+
+#: includes/class-pmbn-scripts.php:304
+msgid "Rented"
+msgstr "Kibérelve"
+
+#: includes/class-pmbn-scripts.php:308
+msgid "Main color"
+msgstr "Kiemelt szín"
+
+#: includes/class-pmbn-scripts.php:312
+msgid "Outdoor types"
+msgstr "Kültér típusok"
+
+#: includes/class-pmbn-scripts.php:316
+msgid "Blueprints"
+msgstr "Alaprajzok"
+
+#: includes/class-pmbn-scripts.php:320
+msgid "Sold status row opacity"
+msgstr "Eladva sor átlátszóság"
+
+#: includes/class-pmbn-scripts.php:324
+msgid "Previous Floor"
+msgstr "Előző szint"
+
+#: includes/class-pmbn-scripts.php:328
+msgid "Next Floor"
+msgstr "Következő szint"
+
+#: includes/class-pmbn-scripts.php:332
+msgid "Preview"
+msgstr "Előnézet"
+
+#: includes/class-pmbn-scripts.php:336
+msgid "On"
+msgstr "Be"
+
+#: includes/class-pmbn-scripts.php:340
+msgid "Off"
+msgstr "Ki"
+
+#: includes/class-pmbn-scripts.php:344
+msgid "Rent price"
+msgstr "Bérleti díj"
+
+#: includes/class-pmbn-scripts.php:348
+msgid "Copy Apartment Data"
+msgstr "Lakás adatok másolása"
+
+#: includes/class-pmbn-scripts.php:352
+msgid "Paste Apartment Data"
+msgstr "Lakás adatok beillesztése"
+
+#: includes/class-pmbn-scripts.php:356
+msgid "Clipboard data pasted into apartment."
+msgstr "A vágólap adatai beillesztve a lakásba."
+
+#: includes/class-pmbn-scripts.php:360
+msgid "Select"
+msgstr "Kiválaszt"
+
+#: includes/class-pmbn-scripts.php:364
+msgid "Close"
+msgstr "Bezár"
+
+#: includes/class-pmbn-scripts.php:368
+msgid "Apartments not found"
+msgstr "Nem találhatóak lakások"
