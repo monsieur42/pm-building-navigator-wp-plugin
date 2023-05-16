@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PM Building Navigator\n"
-"POT-Creation-Date: 2023-05-14 20:06+0200\n"
+"POT-Creation-Date: 2023-05-16 18:59+0200\n"
 "PO-Revision-Date: 2017-07-20 12:55+0200\n"
 "Last-Translator: \n"
 "Language-Team: info@miklospomsar.com\n"
@@ -89,216 +89,260 @@ msgstr ""
 msgid "Oops! An unexpected error occurred while saving the building navigator. Please try again."
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:118
+#: includes/class-pmbn-scripts.php:132
 msgid "Passive"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:122
+#: includes/class-pmbn-scripts.php:136
 msgid "Floor name"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:126
+#: includes/class-pmbn-scripts.php:140
 msgid "Add images"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:130
+#: includes/class-pmbn-scripts.php:144
 msgid "Level spacing"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:134
+#: includes/class-pmbn-scripts.php:148
 msgid "Space above"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:138
+#: includes/class-pmbn-scripts.php:152
 msgid "Change SVG"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:142
+#: includes/class-pmbn-scripts.php:156
 msgid "select file"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:146
+#: includes/class-pmbn-scripts.php:160
 msgid "Svg files with groups on the top level representing the floors and groups in the floors representing the apartments."
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:150
+#: includes/class-pmbn-scripts.php:164
 msgid "Load SVG"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:154
+#: includes/class-pmbn-scripts.php:168
 msgid "Only SVG files are allowed."
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:158
+#: includes/class-pmbn-scripts.php:172
 msgid "Is Apartment"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:162
+#: includes/class-pmbn-scripts.php:176
 msgid "Apartment name"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:166
+#: includes/class-pmbn-scripts.php:180
 msgid "Apartment images"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:170
+#: includes/class-pmbn-scripts.php:184
 msgctxt "settings"
 msgid "General"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:175
+#: includes/class-pmbn-scripts.php:189
 msgid "Floor"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:179
+#: includes/class-pmbn-scripts.php:193
 msgid "Apartment"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:183
+#: includes/class-pmbn-scripts.php:197
 msgid "Number of rooms"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:187
+#: includes/class-pmbn-scripts.php:201
 msgid "Rooms"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:191
+#: includes/class-pmbn-scripts.php:205
 msgid "Living area"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:195
+#: includes/class-pmbn-scripts.php:209
 msgid "Garden"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:199
+#: includes/class-pmbn-scripts.php:213
 msgid "Terrace"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:203
+#: includes/class-pmbn-scripts.php:217
 msgid "Balcony"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:207
+#: includes/class-pmbn-scripts.php:221
 msgid "Sale price"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:211
+#: includes/class-pmbn-scripts.php:225
 msgid "Currency"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:215
+#: includes/class-pmbn-scripts.php:229
 msgid "Period"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:219
+#: includes/class-pmbn-scripts.php:233
 msgid "Overheads"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:223
+#: includes/class-pmbn-scripts.php:237
 msgid "Available from"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:227
+#: includes/class-pmbn-scripts.php:241
 msgid "Status"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:231
+#: includes/class-pmbn-scripts.php:245
 msgid "Registration URL"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:235
+#: includes/class-pmbn-scripts.php:249
 msgid "Fact sheet"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:239
+#: includes/class-pmbn-scripts.php:253
 msgid "Add file"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:243
+#: includes/class-pmbn-scripts.php:257
 msgid "Graphic"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:247
+#: includes/class-pmbn-scripts.php:261
 msgid "Apartments"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:251
+#: includes/class-pmbn-scripts.php:265
 msgid "Rent price period"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:255
+#: includes/class-pmbn-scripts.php:269
 msgid "Clipboard data copied into apartment."
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:259
+#: includes/class-pmbn-scripts.php:273
 msgid "Apartment copied on clipboard."
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:263
+#: includes/class-pmbn-scripts.php:277
 msgid "Copy"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:267
+#: includes/class-pmbn-scripts.php:281
 msgid "Paste"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:271
+#: includes/class-pmbn-scripts.php:285
 msgid "Display in table column"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:275
+#: includes/class-pmbn-scripts.php:289
 msgid "Floor index"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:279
+#: includes/class-pmbn-scripts.php:293
 msgid "Online Registration"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:283
+#: includes/class-pmbn-scripts.php:297
 msgid "Search"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:287
+#: includes/class-pmbn-scripts.php:301
 msgctxt "date range"
 msgid "to"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:292
+#: includes/class-pmbn-scripts.php:306
 msgid "Availability"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:296
+#: includes/class-pmbn-scripts.php:310
 msgid "Available"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:300
+#: includes/class-pmbn-scripts.php:314
 msgid "Sold"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:304
+#: includes/class-pmbn-scripts.php:318
 msgid "Rented"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:308
+#: includes/class-pmbn-scripts.php:322
 msgid "Main color"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:312
+#: includes/class-pmbn-scripts.php:326
 msgid "Outdoor types"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:316
+#: includes/class-pmbn-scripts.php:330
 msgid "Blueprints"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:320
+#: includes/class-pmbn-scripts.php:334
 msgid "Sold status row opacity"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:324
+#: includes/class-pmbn-scripts.php:338
 msgid "Previous Floor"
 msgstr ""
 
-#: includes/class-pmbn-scripts.php:328
+#: includes/class-pmbn-scripts.php:342
 msgid "Next Floor"
+msgstr ""
+
+#: includes/class-pmbn-scripts.php:346
+msgid "Preview"
+msgstr ""
+
+#: includes/class-pmbn-scripts.php:350
+msgid "On"
+msgstr ""
+
+#: includes/class-pmbn-scripts.php:354
+msgid "Off"
+msgstr ""
+
+#: includes/class-pmbn-scripts.php:358
+msgid "Rent price"
+msgstr ""
+
+#: includes/class-pmbn-scripts.php:362
+msgid "Copy Apartment Data"
+msgstr ""
+
+#: includes/class-pmbn-scripts.php:366
+msgid "Paste Apartment Data"
+msgstr ""
+
+#: includes/class-pmbn-scripts.php:370
+msgid "Clipboard data pasted into apartment."
+msgstr ""
+
+#: includes/class-pmbn-scripts.php:374
+msgid "Select"
+msgstr ""
+
+#: includes/class-pmbn-scripts.php:378
+msgid "Close"
+msgstr ""
+
+#: includes/class-pmbn-scripts.php:382
+msgid "Apartments not found"
+msgstr ""
+
+#: includes/class-pmbn-scripts.php:386
+msgid "Floor plan"
 msgstr ""

@@ -381,6 +381,10 @@ class PmBNScripts {
 				'default' => 'Apartments not found',
 				'translation' => __('Apartments not found', PM_BN_TEXTDOMAIN),
 			],
+			[
+				'default' => 'Floor plan',
+				'translation' => __('Floor plan', PM_BN_TEXTDOMAIN),
+			],
 		];
 	}
 }

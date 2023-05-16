@@ -1,24 +1,6 @@
-# pm-building-navigator
+# pm-building-navigator-wp-plugin
 
 ## Project setup
 ```
-npm install
+Copy this repo into the wordpress wp-content/plugins/ directory and activate in the wordpress admin area.
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

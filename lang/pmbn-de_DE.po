@@ -1,0 +1,240 @@
+# This file was generated from de_DE.xlsx
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2023-05-16 18:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: xls-to-po 1.0\n"
+"X-Generator: Poedit 3.2.2\n"
+
+msgid "Buildings"
+msgstr "Gebäude"
+
+msgid "Building navigator"
+msgstr "Gebäudenavigator"
+
+msgid "Add new building navigator"
+msgstr "Neuen Gebäudenavigator hinzufügen"
+
+msgid "Edit building navigator"
+msgstr "Gebäudenavigator bearbeiten"
+
+msgid "New building navigator"
+msgstr "Neubau-Navigator"
+
+msgid "View building navigator"
+msgstr "Gebäudenavigator anzeigen"
+
+msgid "View building navigators"
+msgstr "Gebäudenavigatoren anzeigen"
+
+msgid "Search building navigators"
+msgstr "Suchen Sie nach Gebäudenavigatoren"
+
+msgid "Building navigator not found"
+msgstr "Gebäudenavigator nicht gefunden"
+
+msgid "Building navigator not found in trash"
+msgstr "Der Gebäudenavigator wurde nicht im Papierkorb gefunden"
+
+msgid "Parent building navigator:"
+msgstr "Navigator des übergeordneten Gebäudes:"
+
+msgid "All buildings"
+msgstr "Alle Gebäuden"
+
+msgid "Archive building navigators"
+msgstr "Gebäudenavigatoren archivieren"
+
+msgid "Insert into building navigator"
+msgstr "In den Gebäudenavigator einfügen"
+
+msgid "Uploaded to this building navigator"
+msgstr "In diesen Gebäudenavigator hochgeladen"
+
+msgid "Building navigator not found..."
+msgstr "Gebäudenavigator nicht gefunden..."
+
+msgid "Shortcode"
+msgstr "Shortcode"
+
+msgid ""
+"Oops! An unexpected error occurred while saving the building navigator. "
+"Please try again."
+msgstr ""
+"Hoppla! Beim Speichern des Gebäudenavigators ist ein unerwarteter Fehler "
+"aufgetreten. Bitte versuche es erneut."
+
+msgid "Passive"
+msgstr "Passiv"
+
+msgid "Floor name"
+msgstr "Etagenname"
+
+msgid "Add images"
+msgstr "Füge Bilder hinzu"
+
+msgid "Level spacing"
+msgstr "Ebenenabstand"
+
+msgid "Space above"
+msgstr "Platz oben"
+
+msgid "Change SVG"
+msgstr "SVG ändern"
+
+msgid "select file"
+msgstr "Datei aussuchen"
+
+msgid ""
+"Svg files with groups on the top level representing the floors and groups "
+"in the floors representing the apartments."
+msgstr ""
+"SVG-Dateien mit Gruppen auf der obersten Ebene, stellen die Stockwerke dar, "
+"und Gruppen in den Stockwerken, die  Wohnungen."
+
+msgid "Load SVG"
+msgstr "SVG laden"
+
+msgid "Only SVG files are allowed."
+msgstr "Es sind nur SVG-Dateien zulässig."
+
+msgid "Is Apartment"
+msgstr "Ist Wohnung"
+
+msgid "Apartment name"
+msgstr "Wohnungsname"
+
+msgid "Apartment images"
+msgstr "Wohnungsbilder"
+
+msgctxt "settings"
+msgid "General"
+msgstr "Allgemein"
+
+msgid "Floor"
+msgstr "Etage"
+
+msgid "Apartment"
+msgstr "Wohnung"
+
+msgid "Number of rooms"
+msgstr "Anzahl der Zimmer"
+
+msgid "Rooms"
+msgstr "Zimmer"
+
+msgid "Living area"
+msgstr "Wohnbereich"
+
+msgid "Garden"
+msgstr "Garten"
+
+msgid "Terrace"
+msgstr "Terrasse"
+
+msgid "Balcony"
+msgstr "Balkon"
+
+msgid "Sale price"
+msgstr "Verkaufspreis"
+
+msgid "Currency"
+msgstr "Währung"
+
+msgid "Period"
+msgstr "Zeitraum"
+
+msgid "Overheads"
+msgstr "Betriebskosten"
+
+msgid "Available from"
+msgstr "Verfügbar ab"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Registration URL"
+msgstr "Registrierungs-URL"
+
+msgid "Fact sheet"
+msgstr "Datenblatt"
+
+msgid "Add file"
+msgstr "Datei hinzufügen"
+
+msgid "Graphic"
+msgstr "Grafik"
+
+msgid "Apartments"
+msgstr "Wohnungen"
+
+msgid "Rent price period"
+msgstr "Mietperiode"
+
+msgid "Clipboard data copied into apartment."
+msgstr "Daten aus der Zwischenablage in die Wohnung kopiert."
+
+msgid "Apartment copied on clipboard."
+msgstr "Wohnung in Zwischenablage kopiert."
+
+msgid "Copy"
+msgstr "Kopieren"
+
+msgid "Paste"
+msgstr "Paste"
+
+msgid "Display in table column"
+msgstr "Anzeige in Tabellenspalte"
+
+msgid "Floor index"
+msgstr "Etagenindex"
+
+msgid "Online Registration"
+msgstr "Onlineanmeldung"
+
+msgid "Search"
+msgstr "Suchen"
+
+msgctxt "date range"
+msgid "to"
+msgstr "Zu"
+
+msgid "Availability"
+msgstr "Verfügbarkeit"
+
+msgid "Available"
+msgstr "Verfügbar"
+
+msgid "Sold"
+msgstr "Verkauft"
+
+msgid "Rented"
+msgstr "Vermietet"
+
+msgid "Main color"
+msgstr "Hauptfarbe"
+
+msgid "Outdoor types"
+msgstr "Aussenflächen Typen"
+
+msgid "Blueprints"
+msgstr "Grundriss"
+
+msgid "Sold status row opacity"
+msgstr "Deckkraft der verkauften Statuszeile"
+
+msgid "Previous Floor"
+msgstr "Vorherige Etage"
+
+msgid "Next Floor"
+msgstr "Nächste Etage"
+
+msgid "Floor plan"
+msgstr "Grundriss"
