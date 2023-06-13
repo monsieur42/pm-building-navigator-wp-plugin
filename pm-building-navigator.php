@@ -3,7 +3,7 @@
 Plugin Name: PM Building Navigator
 Plugin URI: https://miklospomsar.com
 Description: With this plugin you can create building navigator interfaces from schematic SVG building graphics. To display the building's apartments data in a simple and user-friendly way.
-Version: 1.0.1
+Version: 1.0.2
 Author: Pomsár Miklós
 Author URI: https://miklospomsar.com
 License: GPLv2 or later
