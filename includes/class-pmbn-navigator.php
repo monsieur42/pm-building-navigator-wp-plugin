@@ -31,6 +31,7 @@ class PmBNNavigator{
 
 		/*ADMIN*/
 		add_action( 'edit_form_after_editor', [$this, 'render_editor'] );
+		add_action( 'post_edit_form_tag', [$this, 'post_form_novaidate'], 10, 1 );
 
 		//validate
 		add_action( 'wp_ajax_pmbn_validate_building_config', [$this, 'pmbn_validate_building_config'] );
@@ -40,6 +41,12 @@ class PmBNNavigator{
 	}
 	
 	private function add_filters(){
+	}
+
+	public function post_form_novaidate($post){
+		if($post->post_type == 'building-navigators'){
+			echo ' novalidate="novalidate" ';
+		}
 	}
 
 	public function add_shortcode(){

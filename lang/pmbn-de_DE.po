@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-05-16 18:57+0200\n"
+"POT-Creation-Date: 2023-06-13 20:34+0200\n"
+"PO-Revision-Date: 2023-06-13 20:34+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de_DE\n"
@@ -11,59 +11,77 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: xls-to-po 1.0\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.3.1\n"
 
+#: includes/class-pmbn-cpts.php:38
 msgid "Buildings"
 msgstr "Gebäude"
 
+#: includes/class-pmbn-cpts.php:39
 msgid "Building navigator"
 msgstr "Gebäudenavigator"
 
+#: includes/class-pmbn-cpts.php:40
 msgid "Add new building navigator"
 msgstr "Neuen Gebäudenavigator hinzufügen"
 
+#: includes/class-pmbn-cpts.php:41
 msgid "Edit building navigator"
 msgstr "Gebäudenavigator bearbeiten"
 
+#: includes/class-pmbn-cpts.php:42
 msgid "New building navigator"
 msgstr "Neubau-Navigator"
 
+#: includes/class-pmbn-cpts.php:43
 msgid "View building navigator"
 msgstr "Gebäudenavigator anzeigen"
 
+#: includes/class-pmbn-cpts.php:44
 msgid "View building navigators"
 msgstr "Gebäudenavigatoren anzeigen"
 
+#: includes/class-pmbn-cpts.php:45
 msgid "Search building navigators"
 msgstr "Suchen Sie nach Gebäudenavigatoren"
 
+#: includes/class-pmbn-cpts.php:46
 msgid "Building navigator not found"
 msgstr "Gebäudenavigator nicht gefunden"
 
+#: includes/class-pmbn-cpts.php:47
 msgid "Building navigator not found in trash"
 msgstr "Der Gebäudenavigator wurde nicht im Papierkorb gefunden"
 
+#: includes/class-pmbn-cpts.php:48
 msgid "Parent building navigator:"
 msgstr "Navigator des übergeordneten Gebäudes:"
 
+#: includes/class-pmbn-cpts.php:49
 msgid "All buildings"
 msgstr "Alle Gebäuden"
 
+#: includes/class-pmbn-cpts.php:50
 msgid "Archive building navigators"
 msgstr "Gebäudenavigatoren archivieren"
 
+#: includes/class-pmbn-cpts.php:51
 msgid "Insert into building navigator"
 msgstr "In den Gebäudenavigator einfügen"
 
+#: includes/class-pmbn-cpts.php:52
 msgid "Uploaded to this building navigator"
 msgstr "In diesen Gebäudenavigator hochgeladen"
 
+#: includes/class-pmbn-navigator.php:60
 msgid "Building navigator not found..."
 msgstr "Gebäudenavigator nicht gefunden..."
 
+#: includes/class-pmbn-navigator.php:175
 msgid "Shortcode"
 msgstr "Shortcode"
 
+#: includes/class-pmbn-navigator.php:203
 msgid ""
 "Oops! An unexpected error occurred while saving the building navigator. "
 "Please try again."
@@ -71,170 +89,272 @@ msgstr ""
 "Hoppla! Beim Speichern des Gebäudenavigators ist ein unerwarteter Fehler "
 "aufgetreten. Bitte versuche es erneut."
 
+#: includes/class-pmbn-scripts.php:132
 msgid "Passive"
 msgstr "Passiv"
 
+#: includes/class-pmbn-scripts.php:136
 msgid "Floor name"
 msgstr "Etagenname"
 
+#: includes/class-pmbn-scripts.php:140
 msgid "Add images"
 msgstr "Füge Bilder hinzu"
 
+#: includes/class-pmbn-scripts.php:144
 msgid "Level spacing"
 msgstr "Ebenenabstand"
 
+#: includes/class-pmbn-scripts.php:148
 msgid "Space above"
 msgstr "Platz oben"
 
+#: includes/class-pmbn-scripts.php:152
 msgid "Change SVG"
 msgstr "SVG ändern"
 
+#: includes/class-pmbn-scripts.php:156
 msgid "select file"
 msgstr "Datei aussuchen"
 
+#: includes/class-pmbn-scripts.php:160
 msgid ""
-"Svg files with groups on the top level representing the floors and groups "
-"in the floors representing the apartments."
+"Svg files with groups on the top level representing the floors and groups in "
+"the floors representing the apartments."
 msgstr ""
 "SVG-Dateien mit Gruppen auf der obersten Ebene, stellen die Stockwerke dar, "
 "und Gruppen in den Stockwerken, die  Wohnungen."
 
+#: includes/class-pmbn-scripts.php:164
 msgid "Load SVG"
 msgstr "SVG laden"
 
+#: includes/class-pmbn-scripts.php:168
 msgid "Only SVG files are allowed."
 msgstr "Es sind nur SVG-Dateien zulässig."
 
+#: includes/class-pmbn-scripts.php:172
 msgid "Is Apartment"
 msgstr "Ist Wohnung"
 
+#: includes/class-pmbn-scripts.php:176
 msgid "Apartment name"
 msgstr "Wohnungsname"
 
+#: includes/class-pmbn-scripts.php:180
 msgid "Apartment images"
 msgstr "Wohnungsbilder"
 
+#: includes/class-pmbn-scripts.php:184
 msgctxt "settings"
 msgid "General"
 msgstr "Allgemein"
 
+#: includes/class-pmbn-scripts.php:189
 msgid "Floor"
 msgstr "Etage"
 
+#: includes/class-pmbn-scripts.php:193
 msgid "Apartment"
 msgstr "Wohnung"
 
+#: includes/class-pmbn-scripts.php:197
 msgid "Number of rooms"
 msgstr "Anzahl der Zimmer"
 
+#: includes/class-pmbn-scripts.php:201
 msgid "Rooms"
 msgstr "Zimmer"
 
+#: includes/class-pmbn-scripts.php:205
 msgid "Living area"
-msgstr "Wohnbereich"
+msgstr "Wohnfläche"
 
+#: includes/class-pmbn-scripts.php:209
 msgid "Garden"
 msgstr "Garten"
 
+#: includes/class-pmbn-scripts.php:213
 msgid "Terrace"
 msgstr "Terrasse"
 
+#: includes/class-pmbn-scripts.php:217
 msgid "Balcony"
 msgstr "Balkon"
 
+#: includes/class-pmbn-scripts.php:221
 msgid "Sale price"
 msgstr "Verkaufspreis"
 
+#: includes/class-pmbn-scripts.php:225
 msgid "Currency"
 msgstr "Währung"
 
+#: includes/class-pmbn-scripts.php:229
 msgid "Period"
 msgstr "Zeitraum"
 
+#: includes/class-pmbn-scripts.php:233
 msgid "Overheads"
 msgstr "Betriebskosten"
 
+#: includes/class-pmbn-scripts.php:237
 msgid "Available from"
 msgstr "Verfügbar ab"
 
+#: includes/class-pmbn-scripts.php:241
 msgid "Status"
 msgstr "Status"
 
+#: includes/class-pmbn-scripts.php:245
 msgid "Registration URL"
 msgstr "Registrierungs-URL"
 
+#: includes/class-pmbn-scripts.php:249
 msgid "Fact sheet"
 msgstr "Datenblatt"
 
+#: includes/class-pmbn-scripts.php:253
 msgid "Add file"
 msgstr "Datei hinzufügen"
 
+#: includes/class-pmbn-scripts.php:257
 msgid "Graphic"
 msgstr "Grafik"
 
+#: includes/class-pmbn-scripts.php:261
 msgid "Apartments"
 msgstr "Wohnungen"
 
+#: includes/class-pmbn-scripts.php:265
 msgid "Rent price period"
 msgstr "Mietperiode"
 
+#: includes/class-pmbn-scripts.php:269
 msgid "Clipboard data copied into apartment."
 msgstr "Daten aus der Zwischenablage in die Wohnung kopiert."
 
+#: includes/class-pmbn-scripts.php:273
 msgid "Apartment copied on clipboard."
 msgstr "Wohnung in Zwischenablage kopiert."
 
+#: includes/class-pmbn-scripts.php:277
 msgid "Copy"
 msgstr "Kopieren"
 
+#: includes/class-pmbn-scripts.php:281
 msgid "Paste"
 msgstr "Paste"
 
+#: includes/class-pmbn-scripts.php:285
 msgid "Display in table column"
 msgstr "Anzeige in Tabellenspalte"
 
+#: includes/class-pmbn-scripts.php:289
 msgid "Floor index"
 msgstr "Etagenindex"
 
+#: includes/class-pmbn-scripts.php:293
 msgid "Online Registration"
 msgstr "Onlineanmeldung"
 
+#: includes/class-pmbn-scripts.php:297
 msgid "Search"
 msgstr "Suchen"
 
+#: includes/class-pmbn-scripts.php:301
 msgctxt "date range"
 msgid "to"
 msgstr "Zu"
 
+#: includes/class-pmbn-scripts.php:306
 msgid "Availability"
 msgstr "Verfügbarkeit"
 
+#: includes/class-pmbn-scripts.php:310
 msgid "Available"
 msgstr "Verfügbar"
 
+#: includes/class-pmbn-scripts.php:314
 msgid "Sold"
 msgstr "Verkauft"
 
+#: includes/class-pmbn-scripts.php:318
 msgid "Rented"
 msgstr "Vermietet"
 
+#: includes/class-pmbn-scripts.php:322
 msgid "Main color"
 msgstr "Hauptfarbe"
 
+#: includes/class-pmbn-scripts.php:326
 msgid "Outdoor types"
 msgstr "Aussenflächen Typen"
 
+#: includes/class-pmbn-scripts.php:330
 msgid "Blueprints"
 msgstr "Grundriss"
 
+#: includes/class-pmbn-scripts.php:334
 msgid "Sold status row opacity"
 msgstr "Deckkraft der verkauften Statuszeile"
 
+#: includes/class-pmbn-scripts.php:338
 msgid "Previous Floor"
 msgstr "Vorherige Etage"
 
+#: includes/class-pmbn-scripts.php:342
 msgid "Next Floor"
 msgstr "Nächste Etage"
 
+#: includes/class-pmbn-scripts.php:346
+msgid "Preview"
+msgstr "Vorschau"
+
+#: includes/class-pmbn-scripts.php:350
+msgid "On"
+msgstr "Ein"
+
+#: includes/class-pmbn-scripts.php:354
+msgid "Off"
+msgstr "Aus"
+
+#: includes/class-pmbn-scripts.php:358
+msgid "Rent price"
+msgstr "Bruttomiete"
+
+#: includes/class-pmbn-scripts.php:362
+msgid "Copy Apartment Data"
+msgstr "Wohnungsdaten kopieren"
+
+#: includes/class-pmbn-scripts.php:366
+msgid "Paste Apartment Data"
+msgstr "Wohnungsdaten einfügen"
+
+#: includes/class-pmbn-scripts.php:370
+msgid "Clipboard data pasted into apartment."
+msgstr "Daten aus der Zwischenablage in die Wohnung eingefügt."
+
+#: includes/class-pmbn-scripts.php:374
+msgid "Select"
+msgstr "Ausgewählt"
+
+#: includes/class-pmbn-scripts.php:378
+msgid "Close"
+msgstr "Schließen"
+
+#: includes/class-pmbn-scripts.php:382
+msgid "Apartments not found"
+msgstr "Wohnung nicht gefunden"
+
+#: includes/class-pmbn-scripts.php:386
 msgid "Floor plan"
 msgstr "Grundriss"
+
+#: includes/class-pmbn-scripts.php:390
+msgid "Basement"
+msgstr "Keller"
+
+#: includes/class-pmbn-scripts.php:394
+msgid "Net rent"
+msgstr "Nettomiete"

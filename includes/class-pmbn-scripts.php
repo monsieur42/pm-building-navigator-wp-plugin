@@ -385,6 +385,14 @@ class PmBNScripts {
 				'default' => 'Floor plan',
 				'translation' => __('Floor plan', PM_BN_TEXTDOMAIN),
 			],
+			[
+				'default' => 'Basement',
+				'translation' => __('Basement', PM_BN_TEXTDOMAIN),
+			],
+			[
+				'default' => 'Net rent',
+				'translation' => __('Net rent', PM_BN_TEXTDOMAIN),
+			],
 		];
 	}
 }

@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PM Building Navigator\n"
-"POT-Creation-Date: 2023-05-16 18:58+0200\n"
-"PO-Revision-Date: 2023-05-16 18:58+0200\n"
+"POT-Creation-Date: 2023-06-13 20:34+0200\n"
+"PO-Revision-Date: 2023-06-13 20:35+0200\n"
 "Last-Translator: \n"
 "Language-Team: info@miklospomsar.com\n"
 "Language: hu_HU\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.3.1\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n;_nx:1,2c;_n_noop;_nx_noop;"
@@ -78,15 +78,15 @@ msgstr "Beillesztés az épület navigátorba"
 msgid "Uploaded to this building navigator"
 msgstr "Feltöltve az épület navigátorhoz"
 
-#: includes/class-pmbn-navigator.php:53
+#: includes/class-pmbn-navigator.php:60
 msgid "Building navigator not found..."
 msgstr "Nem található épület navigátor..."
 
-#: includes/class-pmbn-navigator.php:168
+#: includes/class-pmbn-navigator.php:175
 msgid "Shortcode"
 msgstr "Shortcode"
 
-#: includes/class-pmbn-navigator.php:196
+#: includes/class-pmbn-navigator.php:203
 msgid ""
 "Oops! An unexpected error occurred while saving the building navigator. "
 "Please try again."
@@ -355,3 +355,11 @@ msgstr "Nem találhatóak lakások"
 #: includes/class-pmbn-scripts.php:386
 msgid "Floor plan"
 msgstr "Alaprajz"
+
+#: includes/class-pmbn-scripts.php:390
+msgid "Basement"
+msgstr "Pince"
+
+#: includes/class-pmbn-scripts.php:394
+msgid "Net rent"
+msgstr "Nettó bérleti díj"

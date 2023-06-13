@@ -28,7 +28,7 @@ class PmBuildingNavigator {
 	
 	function __construct() {
 		$this->settings = [
-			'version' => '1.0.1',
+			'version' => '1.0.2',
 			'dev' => false,
 		];
 		
