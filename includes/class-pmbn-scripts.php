@@ -393,6 +393,18 @@ class PmBNScripts {
 				'default' => 'Net rent',
 				'translation' => __('Net rent', PM_BN_TEXTDOMAIN),
 			],
+			[
+				'default' => 'Value override',
+				'translation' => __('Value override', PM_BN_TEXTDOMAIN),
+			],
+			[
+				'default' => 'Reserved',
+				'translation' => __('Reserved', PM_BN_TEXTDOMAIN),
+			],
+			[
+				'default' => 'Apartments order',
+				'translation' => __('Apartments order', PM_BN_TEXTDOMAIN),
+			],
 		];
 	}
 }

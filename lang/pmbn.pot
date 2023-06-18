@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PM Building Navigator\n"
-"POT-Creation-Date: 2023-06-13 20:34+0200\n"
+"POT-Creation-Date: 2023-06-18 22:09+0200\n"
 "PO-Revision-Date: 2017-07-20 12:55+0200\n"
 "Last-Translator: \n"
 "Language-Team: info@miklospomsar.com\n"
@@ -353,4 +353,16 @@ msgstr ""
 
 #: includes/class-pmbn-scripts.php:394
 msgid "Net rent"
+msgstr ""
+
+#: includes/class-pmbn-scripts.php:398
+msgid "Value override"
+msgstr ""
+
+#: includes/class-pmbn-scripts.php:402
+msgid "Reserved"
+msgstr ""
+
+#: includes/class-pmbn-scripts.php:406
+msgid "Apartments order"
 msgstr ""
