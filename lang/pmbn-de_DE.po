@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2023-06-18 22:09+0200\n"
-"PO-Revision-Date: 2023-06-18 22:12+0200\n"
+"PO-Revision-Date: 2023-07-05 19:08+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de_DE\n"
@@ -361,14 +361,12 @@ msgstr "Nettomiete"
 
 #: includes/class-pmbn-scripts.php:398
 msgid "Value override"
-msgstr ""
+msgstr "Überschreiben"
 
 #: includes/class-pmbn-scripts.php:402
 msgid "Reserved"
 msgstr "Reserviert"
 
 #: includes/class-pmbn-scripts.php:406
-#, fuzzy
-#| msgid "Apartments"
 msgid "Apartments order"
-msgstr "Wohnungen"
+msgstr "Reihenfolge Wohnungen"
